@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34ce49f8.css",
+    "main.js": "/static/js/main.31bac60f.js",
+    "static/media/Game Search.jpg": "/static/media/Game Search.ccba9a7f580ded6b7a56.jpg",
+    "static/media/hero-console.jpg": "/static/media/hero-console.61a2631570a9954d3d89.jpg",
+    "index.html": "/index.html",
+    "main.34ce49f8.css.map": "/static/css/main.34ce49f8.css.map",
+    "main.31bac60f.js.map": "/static/js/main.31bac60f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ce49f8.css",
+    "static/js/main.31bac60f.js"
+  ]
+}

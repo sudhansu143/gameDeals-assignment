@@ -1,0 +1,16 @@
+.home{
+    background: url(/public/images/hero-console.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    background-position: center;
+    
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.hinput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
